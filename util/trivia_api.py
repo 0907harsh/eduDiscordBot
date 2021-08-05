@@ -20,7 +20,7 @@ class API:
     async def get_trivia(self):
         self.url = "https://opentdb.com/api.php?amount=1&type=multiple"
         response = await self.api_response()
-        response = response['results'][0]
+        response = response[ 'results' ][0]
         correct = response['correct_answer']
         options = [correct]+response['incorrect_answers']
         random.shuffle(options)
