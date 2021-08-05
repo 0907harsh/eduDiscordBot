@@ -1,6 +1,6 @@
 # eduDiscordBot
 
-FakeMilo is an educational discord bot where you can organise a tournament and compete with your friends to a battle of trivia questions.
+eduDiscordBot is an educational discord bot where you can organise a tournament and compete with your friends to a battle of trivia questions.
 
 <a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
 
