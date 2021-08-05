@@ -1,4 +1,4 @@
-# FakeMilo
+# eduDiscordBot
 
 FakeMilo is an educational discord bot where you can organise a tournament and compete with your friends to a battle of trivia questions.
 
@@ -51,7 +51,7 @@ Some of the common commands are as follows:
 Clone the repository using
 
 ```bash
-    git clone https://github.com/embiway/FakeMilo.git
+    git clone https://github.com/0907harsh/eduDiscordBot.git
 ```
 
 ### Installing the required libraries and dependencies
@@ -79,18 +79,12 @@ Run the following
     python bot.py
 ```
 
-## Links
-- [PPT Link](https://drive.google.com/file/d/1pZF9ZnM99azCAjSJU_Ifd9G_JstyxOGg/view?usp=sharing)
-- [Video Link](https://drive.google.com/file/d/1DrFz3kbjWUoycvkJ-byrvy6Idc91X5ws/view?usp=sharing)
-
 
 ### Contributors
 
 Team Name : <b>br1cks</b>
 
-- [Abhinav Koul](https://github.com/CodenameGHOST007)
-- [Aryaman Arora]()
-- [Mridul Bhatt](https://github.com/embiway)
+- [Harsh Gupta](https://github.com/0907harsh)
+- [Rajat Bhatnagar](https://github.com/rajat)
+- [Ramprakash Nagar]()
 
-
-<a href="https://hack36.com"> <img src="http://bit.ly/BuiltAtHack36" height=20px> </a>
